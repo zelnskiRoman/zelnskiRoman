@@ -4,4 +4,4 @@
         💡 Angular/TypeScript - home project tools 💡
         🕹 Recently found a new toy called Swift, can't stop playing 😬
         
-🌱 I’m infinitely trying improve my Angular skill and UI design for web and mobile. 
+🌱 I’m infinitely trying to improve my Angular skill and UI design for web and mobile. 
